@@ -1,0 +1,34 @@
+{
+    "USD": {
+        "from_uzs": 8e-05,
+        "to_uzs": 12493.1
+    },
+    "EUR": {
+        "from_uzs": 7e-05,
+        "to_uzs": 14626.9
+    },
+    "GBP": {
+        "from_uzs": 6e-05,
+        "to_uzs": 16957.5
+    },
+    "INR": {
+        "from_uzs": 0.007,
+        "to_uzs": 142.911
+    },
+    "JPY": {
+        "from_uzs": 0.01179,
+        "to_uzs": 84.7852
+    },
+    "RUB": {
+        "from_uzs": 0.00637,
+        "to_uzs": 156.899
+    },
+    "AUD": {
+        "from_uzs": 0.00012,
+        "to_uzs": 8175.48
+    },
+    "ZAR": {
+        "from_uzs": 0.0014,
+        "to_uzs": 713.182
+    }
+}
